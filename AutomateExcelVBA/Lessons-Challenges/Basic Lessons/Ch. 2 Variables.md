@@ -19,3 +19,15 @@ End Sub
 | Objects   | Workbook  | Accepts workbook names.                                                                                                                                                                                                                          |
 | Objects   | Worksheet | Accepts worksheet names.                                                                                                                                                                                                                         |
 | Objects   | Object    | Accepts all objects                                                                                                                                                                                                                              |
+
+Set cell A1 equal to the variable j.
+```vba
+Sub Macro1()
+  Dim j as long
+  j = 2
+  j = j + 1
+
+range("A1").value = j
+
+End Sub
+```
