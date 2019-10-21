@@ -1,0 +1,1 @@
+Upon completion of this course, you will be able to get more out of Excel by writing your own computer programs in the VBA language. Even more importantly, you will understand the logic of programming, enabling you to learn other computer languages rapidly in the future. Students who pass the course will receive an online badge from Cal Poly Pomona.
